@@ -25,7 +25,7 @@ group.sort()
 
 for d in group:
     print(d)
-
+    print("--")
 
 
 
